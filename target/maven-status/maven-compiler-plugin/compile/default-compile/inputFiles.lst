@@ -1,0 +1,8 @@
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/entity/Address.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/hessian/HessianSerializerUtil.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/java/JavaSerializerUtil.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/json/JacksonSerializerUtil.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/main.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/entity/User.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/json/FastjsonSerializerUtil.java
+/Users/dongzj/Workspaces/rpc/serializerdemo/src/main/java/com/dongzj/protobuff/ProtoBuffSerializerUtil.java
